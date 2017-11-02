@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fb9fc07d91471e347aa79048c61c663f
+timeCreated: 1462436177
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - thePrefab: {fileID: 156738, guid: a003799018e640d4b9deac5a5517c307, type: 2}
+  - tb: {fileID: 155422, guid: 2f9837fa747116844adc1fb09c3bdf19, type: 2}
+  - scoretext: {instanceID: 0}
+  - lifetext: {instanceID: 0}
+  - gameover: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
